@@ -1,1 +1,1 @@
-print("pull the master *******data******** to repo")
+print("pull the master *data* to repo")
